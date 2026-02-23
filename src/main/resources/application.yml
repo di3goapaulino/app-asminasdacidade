@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: app-asminasdacidade
+
+server:
+  shutdown: graceful
